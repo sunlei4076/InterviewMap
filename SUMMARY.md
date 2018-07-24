@@ -1,5 +1,5 @@
 * [介绍](README.md)
-* [前端]
+* [前端](sectionREADME.md)
    * [JS](JS/JS-ch.md)
    * [Browser](Browser/browser-ch.md)
    * [Performance](Performance/performance-ch.md)
@@ -8,7 +8,7 @@
    * [Framework](Framework/framework-zh.md)
    * [Vue](Framework/vue-zh.md)
    * [React](Framework/react-zh.md)
-* [计算机通识]
+* [计算机通识](sectionREADME.md)
    * [Network](Network/Network-zh.md)
    * [DataStruct](DataStruct/dataStruct-zh.md)
    * [Algorithm](Algorithm/algorithm-ch.md)
