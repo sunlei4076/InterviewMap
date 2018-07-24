@@ -1,7 +1,7 @@
 * [介绍](README.md)
 * [前端]
    * [JS](JS/JS-ch.md)
-   * [Browser](Browser/gitbook-install.md)
+   * [Browser](Browser/browser-ch.md)
    * [Performance](Performance/performance-ch.md)
    * [Safety](Safety/safety-cn.md)
    * [Performance](Performance/performance-ch.md)
